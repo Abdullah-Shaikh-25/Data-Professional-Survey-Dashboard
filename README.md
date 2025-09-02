@@ -34,11 +34,7 @@ The dashboard provides an **interactive breakdown** to answer key questions such
 ---
 
 ## 🚀 How to Use This Project  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   ```  
-
+1. Clone the repository
 2. Open the **`Project BI.pbix`** file in **Power BI Desktop**.  
 3. Explore the dashboard interactively or customize visualizations.  
 4. Data source: Excel file (`Power BI - Final Project.xlsx`) is already linked. If required, update the file path inside Power BI.  
