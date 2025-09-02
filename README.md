@@ -51,15 +51,3 @@ The dashboard provides an **interactive breakdown** to answer key questions such
 - **GitHub** – for version control and project sharing.  
 
 ---
-
-## 📌 Future Improvements  
-- Add trend analysis over years.  
-- Integrate more demographics (e.g., education level, gender distribution).  
-- Publish dashboard to Power BI Service for web sharing.  
-
----
-
-## 👨‍💻 Author  
-**Your Name**  
-📧 Email: your.email@example.com  
-🌐 GitHub: [yourusername](https://github.com/yourusername)  
