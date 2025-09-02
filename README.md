@@ -14,7 +14,7 @@ The dashboard provides an **interactive breakdown** to answer key questions such
 
 ## 📂 Repository Contents  
 - **`Project BI.pbix`** → Power BI project file (open with Power BI Desktop).  
-- **`Power BI - Final Project.xlsx`** → Raw dataset used for building the report.  
+- **`Power BI - Project.xlsx`** → Raw dataset used for building the report.  
 - **`Data PowerBi Project.png`** → Screenshot of the dashboard for quick preview.  
 
 ---
@@ -37,7 +37,7 @@ The dashboard provides an **interactive breakdown** to answer key questions such
 1. Clone the repository
 2. Open the **`Project BI.pbix`** file in **Power BI Desktop**.  
 3. Explore the dashboard interactively or customize visualizations.  
-4. Data source: Excel file (`Power BI - Final Project.xlsx`) is already linked. If required, update the file path inside Power BI.  
+4. Data source: Excel file (`Power BI - Project.xlsx`) is already linked. If required, update the file path inside Power BI.  
 
 ---
 
